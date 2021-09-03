@@ -1,3 +1,7 @@
+# Project Description
+Spotify clone using react, material ui, react context api in the frontend and firebase, spotify api in the backend. The project is hosted in firebase, you can fid it here: https://spotify-clone-cbb1b.web.app/
+Note: To use this app you need spotify account
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
